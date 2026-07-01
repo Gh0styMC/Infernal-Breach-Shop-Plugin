@@ -3,24 +3,24 @@ pages:
     items:
       '1':
         material: PHANTOM_MEMBRANE
-        buy: 713.32
+        buy: 3
       '2':
         material: TORCH
-        buy: 713.32
+        buy: 6
       '3':
         material: BUCKET
-        buy: 713.32
+        buy: 162
       '4':
         material: CHEST
-        buy: 713.32
+        buy: 51
       '5':
         material: ENDER_CHEST
-        buy: 713.32
+        buy: 3057
       '6':
         material: SPYGLASS
-        buy: 713.32
+        buy: 102
       '7':
         material: BAMBOO
-        buy: 10
+        buy: 3
 
 
