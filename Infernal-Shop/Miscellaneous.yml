@@ -9,16 +9,16 @@ pages:
         buy: 10
       '3':
         material: BUCKET
-        buy: 162
+        buy: 160
       '4':
         material: CHEST
         buy: 50
       '5':
         material: ENDER_CHEST
-        buy: 3057
+        buy: 3060
       '6':
         material: SPYGLASS
-        buy: 102
+        buy: 100
       '7':
         material: BAMBOO
         buy: 10
