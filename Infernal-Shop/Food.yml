@@ -3,29 +3,29 @@ pages:
     items:
       '1':
         material: APPLE
-        buy: 10
+        buy: 9
       '2':
         material: BREAD
-        buy: 15.75
+        buy: 30
       '3':
         material: POTATO
-        buy: 5.25
+        buy: 3
       '4':
         material: CARROT
-        buy: 38.72
+        buy: 3
       '5':
         material: BAKED_POTATO
-        buy: 38.72
+        buy: 3
       '6':
         material: COOKED_COD 
-        buy: 6.3
+        buy: 12
       '7':
         material: COOKED_CHICKEN  #Gallina
-        buy: 6.3
+        buy: 9
       '8':
         material: COOKED_PORKCHOP  #Cerdo
-        buy: 6.3
+        buy: 18
       '9':
         material: COOKED_BEEF #Vaca
-        buy: 38.72
+        buy: 21
       
