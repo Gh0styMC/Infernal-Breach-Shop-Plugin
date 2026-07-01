@@ -12,7 +12,7 @@ pages:
         buy: 162
       '4':
         material: CHEST
-        buy: 51
+        buy: 50
       '5':
         material: ENDER_CHEST
         buy: 3057
