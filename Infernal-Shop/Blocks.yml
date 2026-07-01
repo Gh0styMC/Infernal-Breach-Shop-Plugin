@@ -3,59 +3,59 @@ pages:
     items:
       '1':
         material: DIRT #Con la nueva madera quitar la DIRT y cambiarla por esta nueva
-        buy: 10
+        buy: 3
       '2':
         material: GRASS_BLOCK
-        buy: 10
+        buy: 3
       '3':
         material: OAK_LOG
-        buy: 10
+        buy: 27
       '4':
         material: SPRUCE_LOG
-        buy: 10
+        buy: 27
       '5':
         material: BIRCH_LOG
-        buy: 10
+        buy: 27
       '6':
         material: JUNGLE_LOG
-        buy: 10
+        buy: 27
       '7':
         material: ACACIA_LOG
-        buy: 10
+        buy: 27
       '8':
         material: DARK_OAK_LOG
-        buy: 10
+        buy: 27
       '9':
         material: MANGROVE_LOG
-        buy: 10
+        buy: 27
   page2:
     items:
       '10':
         material: CHERRY_LOG
-        buy: 10
+        buy: 30
       '11':
         material: PALE_OAK_LOG
-        buy: 10
+        buy: 30
       '12':
-        material: WARPED_LOG
-        buy: 10
+        material: WARPEDSTEM
+        buy: 36
       '13':   
-        material: CRIMSON_LOG
-        buy: 10
+        material: CRIMSONSTEM
+        buy: 36
       '14':
         material: STONE
-        buy: 10
+        buy: 3
       '15':
         material: COBBLESTONE
-        buy: 10
+        buy: 3
       '16':
         material: DEEPSLATE
-        buy: 10
+        buy: 9
       '17':
         material: SAND
-        buy: 10
+        buy: 3
       '18':
         material: GRAVEL
-        buy: 10
+        buy: 3
 
         
