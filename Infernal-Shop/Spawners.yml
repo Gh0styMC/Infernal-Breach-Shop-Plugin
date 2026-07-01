@@ -1,0 +1,39 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: SPAWNER
+        spawnertype: ZOMBIE #T1
+        buy: 125000
+      '2':
+        material: SPAWNER
+        spawnertype: MAGMA_CUBE #T2
+        buy: 150000
+      '3':
+        material: SPAWNER
+        spawnertype: SPIDER   #T2
+        buy: 175000
+      '4':
+        material: SPAWNER
+        spawnertype: SKELETON  #T2
+        buy: 1000000
+      '5':
+        material: SPAWNER
+        spawnertype: CREEPER #T3
+        buy: 500000
+      '6':
+        material: SPAWNER
+        spawnertype: BLAZE #T4
+        buy: 125000
+      '7':
+        material: SPAWNER
+        spawnertype: ENDERMAN #T4
+        buy: 45000
+      '8':
+        material: SPAWNER
+        spawnertype: IRON_GOLEM #T5
+        buy: 120000
+      '9':
+        material: SPAWNER
+        spawnertype: ZOMBIFIED_PIGLIN #T5
+        buy: 120000
